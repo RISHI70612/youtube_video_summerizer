@@ -1,0 +1,11 @@
+transformers
+torch
+sentencepiece
+spacy
+pytube
+youtube-transcript-api
+textwrap3
+pybase64
+nltk
+deep_translator
+gTTS
