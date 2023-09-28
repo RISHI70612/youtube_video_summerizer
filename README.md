@@ -17,7 +17,7 @@
 
 <ol>Change the length of the summary as the user wants.</ol>
 
-<ol>Generate summary of a video in any language.</ol>
+<ol>Generate summary of a video in any language</ol>
 
 <ol>Provide summary in the form of text and audio</ol>
 
